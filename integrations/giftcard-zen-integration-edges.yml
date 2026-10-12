@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/giftcard-zen/integrations
+- https://n8n.io/integrations/giftcard-zen/
+- https://composio.dev/toolkits/giftcard-zen
+- https://monid.ai/tools/giftcard-zen
+checked:
+- https://composio.dev/toolkits/giftcard-zen
+- https://monid.ai/tools/giftcard-zen
+- https://n8n.io/integrations/giftcard-zen/
+- https://zapier.com/apps/giftcard-zen/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
